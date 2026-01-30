@@ -90,23 +90,6 @@ The insights derived can help businesses improve pricing strategies, inventory p
 
 ---
 
-## Challenges & Limitations
-- Presence of missing or inconsistent data
-- No inclusion of external factors like economic trends or seasonality
-- Risk of overfitting without hyperparameter tuning
-- Analysis limited to historical data
-
----
-
-## Future Enhancements
-- Integrate external data sources (economic indicators, customer sentiment)
-- Experiment with advanced models (XGBoost, LSTM)
-- Implement dynamic pricing strategies
-- Perform customer segmentation using clustering techniques
-- Develop real-time dashboards using Power BI or Tableau
-
----
-
 ## Conclusion
 This project demonstrates how retail sales data can be transformed into meaningful insights using data analysis and machine learning.  
 Predictive modeling enables better planning, efficient resource allocation, and data-driven decision-making, helping businesses remain competitive in the retail market.
